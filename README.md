@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  
-# Tables of Contents
+# Table of Contents
 
 1. [Docker Learning Resources](https://github.com/mikeroyal/Docker-Guide/blob/main/README.md#docker-learning-resources)
 
@@ -41,6 +41,11 @@
 </p>
 
 **Container Architecture. Source: [Containerd.io](https://containerd.io)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/113521411-2f63f600-954e-11eb-8ff4-657c94dfd6d9.png">
+  <br />
+</p>
 
 ## Docker Learning Resources
 
