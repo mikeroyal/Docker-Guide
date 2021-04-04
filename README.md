@@ -39,7 +39,8 @@
  <img src="https://user-images.githubusercontent.com/45159366/113521413-2ffc8c80-954e-11eb-9d19-b9c996bc524b.png">
   <br />
 </p>
-**Container Architecture. Source:[Containerd.io](https://containerd.io)**
+
+**Container Architecture. Source: [Containerd.io](https://containerd.io)**
 
 ## Docker Learning Resources
 
