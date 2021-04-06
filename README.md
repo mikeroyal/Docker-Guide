@@ -4,7 +4,7 @@
  Docker Guide
 </h1>
 
- #### A guide for getting started with Docker make you a better and more efficient engineer.
+ #### A guide for getting started with Docker including the Tools and Applications that will make you a better and more efficient engineer with Docker.
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
