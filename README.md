@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/113521411-2f63f600-954e-11eb-8ff4-657c94dfd6d9.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -41,11 +45,6 @@
 </p>
 
 **Container Architecture. Source: [Containerd.io](https://containerd.io)**
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/113521411-2f63f600-954e-11eb-8ff4-657c94dfd6d9.png">
-  <br />
-</p>
 
 ## Docker Learning Resources
 
